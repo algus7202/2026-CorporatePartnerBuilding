@@ -40,7 +40,7 @@
 
 ### 대학 내부 기반
 
-부산대학교는 AI융합교육원, LINC 3.0, 현장실습학기제, 산학공동기술개발, 가족회사 제도 등 산학협력 실행 기반을 보유하고 있다. 이를 정보컴퓨터공학부 및 인공지능전공 중심의 AI 기업 협력 트랙으로 묶으면 학생 선발, 기업 과제 매칭, 현장실습, 성과관리까지 비교적 빠르게 제도화할 수 있다.
+부산대학교는 AI융합교육원, RISE 사업단, 취업전략과, 산학공동기술개발, 가족회사 제도 등 산학협력 실행 기반을 보유하고 있다. 이를 정보컴퓨터공학부 및 인공지능전공 중심의 AI 기업 협력 트랙으로 묶으면 학생 선발, 기업 과제 매칭, 현장실습, 성과관리까지 비교적 빠르게 제도화할 수 있다.
 
 ### 지역 산업 환경
 
@@ -284,6 +284,7 @@
 
 - 부산대학교 AI융합교육원: https://swedu.pusan.ac.kr/sites/swedu/index.do
 - 부산대학교 RISE 사업단: https://pnurise.pusan.ac.kr/sites/pnurise/index.do
+- 부산대 원스톱플랫폼(가족회사 제도) : https://sanhakdb.pusan.ac.kr/support/corp/introduce
 - 부산디지털혁신아카데미(BDIA): https://www.busan.go.kr/depart/bdia
 - 부산AI실증지원센터: https://bai.or.kr/
 - 울산 AI사업단 출범 기사: https://www.investkorea.org/us-kr/bbs/i-1090/detail.do?ntt_sn=491686
