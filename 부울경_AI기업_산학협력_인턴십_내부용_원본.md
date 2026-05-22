@@ -258,7 +258,7 @@
 ## 12. 참고 자료
 
 - 부산대학교 AI융합교육원: https://swedu.pusan.ac.kr/sites/swedu/index.do
-- 부산대학교 LINC 3.0 산학연계 교류 프로그램: https://linc.pusan.ac.kr/exchange/
+- 부산대학교 RISE 사업단: https://pnurise.pusan.ac.kr/sites/pnurise/index.do
 - 부산디지털혁신아카데미(BDIA): https://www.busan.go.kr/depart/bdia
 - 부산AI실증지원센터: https://bai.or.kr/
 - 울산 AI사업단 출범 기사: https://www.investkorea.org/us-kr/bbs/i-1090/detail.do?ntt_sn=491686
